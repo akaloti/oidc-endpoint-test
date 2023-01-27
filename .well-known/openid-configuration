@@ -1,5 +1,5 @@
 {
- "issuer": "https://accounts.google.com",
+ "issuer": "https://akaloti.github.io/oidc-endpoint-test",
  "authorization_endpoint": "https://accounts.google.com/o/oauth2/v2/auth",
  "device_authorization_endpoint": "https://oauth2.googleapis.com/device/code",
  "token_endpoint": "https://oauth2.googleapis.com/token",
